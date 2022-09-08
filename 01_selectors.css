@@ -1,0 +1,33 @@
+*{
+            
+}
+body{
+    background-color: #ddd;
+}
+h3{
+    color: blue;
+}
+.card{
+    padding: 10px;
+    background: #fff;
+    margin-bottom: 10px;
+}
+.card p{
+    color: black;
+    font-size: 18px;
+}
+#header{
+    background:#eee;
+    padding: 10px;
+}
+.html{
+    background: #f16529;
+    color: white;
+}
+.css{
+    background: #264de4;
+    color: white;
+}
+#header, .card{
+    margin-bottom: 10px;
+}
